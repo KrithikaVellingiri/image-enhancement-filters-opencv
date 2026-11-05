@@ -177,26 +177,32 @@ plt.show()
 ### Smoothing Filters
 
 - Averaging filter produces blurred image
+  
 ![Output Image](output_1_0.png)
 
 
 - Weighted averaging provides smoother result with less distortion
+  
 ![Output Image](output_2_0.png)
 
 
 - Gaussian filter preserves edges better while reducing noise
+  
 ![Output Image](output_3_0.png) 
 
 
-- Median filter removes salt-and-pepper noise effectively  
+- Median filter removes salt-and-pepper noise effectively
+  
 ![Output Image](output_4_0.png)
 
 ###  Sharpening Filters
 
 - Laplacian kernel enhances edges and fine details
+  
 ![Output Image](output_5_0.png)
   
 - Laplacian operator detects edges clearly in grayscale
+  
 ![Output Image](output_6_1.png) 
 
 ---
